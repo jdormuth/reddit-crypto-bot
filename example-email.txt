@@ -1,0 +1,151 @@
+Here's the daily roundup:
+
+litecoin:
+1. Saw this guy while watching the olympics today
+Post Score: 456
+Url: https://i.redd.it/1moljg60v0h01.jpg
+2. Told myself no one will start accepting Litecoin if I don't start using them. Just got these bad boys today
+Post Score: 502
+Url: https://i.redd.it/0nmat6ux94h01.jpg
+3. #PayWithLitecoin - Twitter stat - keep it goeing
+Post Score: 222
+Url: https://i.redd.it/drpx3mkse0h01.png
+4. Started to accept Litecoin
+Post Score: 66
+Url: https://www.reddit.com/r/litecoin/comments/7ylmv7/started_to_accept_litecoin/
+5. When LitecoinDad Retweets a Mindbender
+Post Score: 40
+Url: https://i.redd.it/64aevm2ow0h01.jpg
+
+
+
+Bitcoin:
+1. Spotted this dude cheering at the Olympics!
+Post Score: 3087
+Url: https://i.redd.it/mmxu5hlmf1h01.png
+2. Polish Youtuber was paid ~30 000$ By Polish Bank to create FUD video about cryptocurrencies for his viewers
+Post Score: 1483
+Url: http://www.cryptovibes.com/crypto-news/youtuber-was-paid-by-polish-bank-to-slander-crpytocurrencies/
+3. "Bitcoin is a tool for freeing humanity from oligarchs and tyrants, dressed up as a get-rich-quick scheme." - CEO of Angel List
+Post Score: 1088
+Url: https://www.reddit.com/r/Bitcoin/comments/7ygfd8/bitcoin_is_a_tool_for_freeing_humanity_from/
+4. $2.1M minimum net worth to use their services. Interesting ad in a local print publication... it’s spreading.
+Post Score: 323
+Url: https://i.redd.it/daotcf7d92h01.jpg
+5. This Sub Needs a Sticky Up Top That States: "YOU Can Buy $10 Worth of Bitcoin"
+Post Score: 291
+Url: https://www.reddit.com/r/Bitcoin/comments/7yfa1t/this_sub_needs_a_sticky_up_top_that_states_you/
+
+
+
+ethereum:
+1. African Start-ups Working with Blockchain in Order to Tackle Land Fraud
+Post Score: 217
+Url: https://usethebitcoin.com/african-start-ups-working-blockchain-order-tackle-land-fraud/
+2. Wyoming Senate Bill Proposes to Exempt Cryptocurrencies from Taxes
+Post Score: 387
+Url: https://usethebitcoin.com/wyoming-senate-bill-proposes-exempt-cryptocurrencies-taxes/
+3. ETHDenver Takeaways - My Experience & The Bright Future of the Community
+Post Score: 147
+Url: https://www.reddit.com/r/ethereum/comments/7yjsz6/ethdenver_takeaways_my_experience_the_bright/
+4. Geth v1.8.1 (Iceberg²): Non-critical hotfix release for v1.8.0
+Post Score: 96
+Url: https://github.com/ethereum/go-ethereum/releases/tag/v1.8.1
+5. Be careful with cross-chain atomic swaps! I've found a (fixable) exploit in the most common implementation (OP_HASH160 <hash> OP_EQUALVERIFY)
+Post Score: 64
+Url: https://www.reddit.com/r/btc/comments/7yjxpm/be_careful_with_crosschain_atomic_swaps_ive_found/
+
+
+
+dashpay:
+1. Dash is also an investment for anyone into a sponsorship system, the first of its kind.
+Post Score: 20
+Url: https://www.reddit.com/r/dashpay/comments/7yf6w5/dash_is_also_an_investment_for_anyone_into_a/
+2. I made HadYouBought.com - Check how much money you could've made buying $100 of that coin the other day - What do you think?
+Post Score: 11
+Url: http://hadyoubought.com/
+3. New Dash Marketing Videos for the Remittance Industry for Digital Services:
+Post Score: 11
+Url: https://www.dash.org/forum/threads/new-dash-marketing-videos-freelancing-industry.28785/#post-168201
+4. The representatives of DASH presented the payment system at Blockchain Conference Saint Petersburg 2018
+Post Score: 12
+Url: https://www.reddit.com/r/dashpay/comments/7ym19f/the_representatives_of_dash_presented_the_payment/
+5. What are the legal ramifications once s proposal has been accepted?
+Post Score: 12
+Url: https://www.reddit.com/r/dashpay/comments/7ygvog/what_are_the_legal_ramifications_once_s_proposal/
+
+
+
+Monero:
+1. FFS Report: Python module
+Post Score: 69
+Url: https://www.reddit.com/r/Monero/comments/7yho1d/ffs_report_python_module/
+2. SHUM
+Post Score: 68
+Url: https://crushthestreet.com/articles/digital-currencies/safe-bitcoin-user-arrested-transaction
+3. I just changed my default mobile search engine to duckduckgo
+Post Score: 90
+Url: https://www.reddit.com/r/Monero/comments/7ym0xc/i_just_changed_my_default_mobile_search_engine_to/
+4. An article on how monero (or other privacy coins) could spark a change of the entire tax system
+Post Score: 28
+Url: http://www.globalpolicyjournal.com/blog/02/02/2018/potential-cryptocurrencies-transform-our-taxation-systems-better
+5. XMR.TO now supports payment protocol URLs
+Post Score: 33
+Url: https://www.reddit.com/r/Monero/comments/7ymu5l/xmrto_now_supports_payment_protocol_urls/
+
+
+
+Bitcoincash:
+1. Rick Reacts to the Lightning Network
+Post Score: 43
+Url: https://youtu.be/DFZOrtlQXWc
+2. BCH Wallet ‘Handcash’ Enables Bitcoin Cash NFC Transactions...
+Post Score: 40
+Url: https://news.bitcoin.com/bch-wallet-handcash-enables-bitcoin-cash-nfc-transactions/
+3. Name-calling Bitcoin Cash as "BCash" or "BTrash" (I recommend pasting the link to this video as the sole response to anyone you see who indulges in such behavior)
+Post Score: 42
+Url: https://youtu.be/OL1ViWJ4h7I
+4. £5 million Bitcoin Cash Tokenization Contest by Coingeek
+Post Score: 22
+Url: http://ccnews.tech/5-million-bitcoin-cash-tokenization-contest/
+5. American ATM Network Athena Bitcoin Adds Bitcoin Cash Support
+Post Score: 21
+Url: https://www.facebook.com/bitlex/posts/202923350289732
+
+
+
+decred:
+1. Exchange Decred #DCR to over 70 cryptocurrencies for only 0.2% fee. https://bitplace.exchange
+Post Score: 22
+Url: https://i.redd.it/zcyj9ccis0h01.png
+2. PoS reviews and suggestions
+Post Score: 5
+Url: https://www.reddit.com/r/decred/comments/7yfeeb/pos_reviews_and_suggestions/
+3. Switzerland Issues Guidelines in Order to Start ICOs and Become a “CryptoNation”
+Post Score: 3
+Url: https://usethebitcoin.com/switzerland-issues-guidelines-order-start-icos-become-cryptonation/
+4. HTTP request failed
+Post Score: 3
+Url: https://www.reddit.com/r/decred/comments/7yhh4p/http_request_failed/
+5. Decred is the only coin immune to one type of atomic swap vurnerability
+Post Score: 8
+Url: https://gist.github.com/markblundeberg/7a932c98179de2190049f5823907c016
+
+
+
+NEO:
+1. A lot of threads about GAS recently so I'll post this here..
+Post Score: 370
+Url: https://i.redd.it/hjjcvgt6a0h01.png
+2. Ledger Nano S App - On Wallet Public Key
+Post Score: 162
+Url: https://i.redd.it/401cwxlqe3h01.jpg
+3. CentraTech is now using GAS as a spendable asset on their cards.
+Post Score: 131
+Url: https://www.reddit.com/r/NEO/comments/7ylkqi/centratech_is_now_using_gas_as_a_spendable_asset/
+4. NEO trading on eToro!!!
+Post Score: 102
+Url: https://i.redd.it/womz9xrlr0h01.jpg
+5. Questions about NEO's proof of stake algorithm.
+Post Score: 28
+Url: https://www.reddit.com/r/NEO/comments/7yi3ys/questions_about_neos_proof_of_stake_algorithm/
